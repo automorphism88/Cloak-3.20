@@ -1,2 +1,2 @@
-# Cloak-3.20
-A black transparent theme for Gtk-3.20. Forked to support Gtk-3.22
+# cloak-theme
+A black transparent theme for GTK-3.20+. Forked from original by killhellokitty to support GTK-3.22.

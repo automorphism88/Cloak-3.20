@@ -1,9 +1,9 @@
 [X-GNOME-Metatheme]
-Name=Cloak-3.20
+Name=Cloak
 Type=X-GNOME-Metatheme
 Comment=dark elegance
 Encoding=UTF-8
-GtkTheme=Cloak-3.20
+GtkTheme=Cloak
 MetacityTheme=Adwaita
 IconTheme=Adwaita
 CursorTheme=Adwaita
